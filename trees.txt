@@ -2,3 +2,4 @@ oak
 pine
 birch
 ash
+apple
