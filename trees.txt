@@ -4,3 +4,4 @@ birch
 ash
 apple
 beech
+maple
